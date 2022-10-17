@@ -9,7 +9,7 @@ This project aims to implement a system of allocating wings in such a way that t
 
 ## Assumptions:
 1. Every wing has same number of rooms.
-2 The number of wings is equal to the number of wingie groups.
+2. The number of wings is equal to the number of wingie groups.
 3. No wing can be alloted to two wingie groups
 4. The wing preference form contains two choices for the most preferred wings.
 
