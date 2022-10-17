@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/70815270/196267663-dceb050d-1e53-415a-bd80-99093159753f.png)
 
-# Wing_Allotment
+# Hostel Wing_Allotment
 This is a data structure course project.
 Wing Allotment using maximum bipartite matching concept/'Hungarian Algorithm'.
 Wing allotment occurs at the end of each year. during this procedure, many students feel dissatisfied since they do not receive their preferred wing.
